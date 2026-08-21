@@ -827,3 +827,291 @@ experimentos:
         - id: 4056-ETTA-1
         - id: 4056-ETTA-2
         - id: 4056-ETTA-3
+
+    - id: 4057
+      texto: >
+        Drone de synth atmosférico, tonalidade Lá menor, 60 BPM.
+        Notas sustentadas com evolução tímbrica lenta. Sem ritmo
+        definido. Textura contínua e reutilizável.
+
+      resultados:
+        - id: 4057-SN-1
+        - id: 4057-SN-2
+        - id: 4057-UD-1
+        - id: 4057-UD-2
+
+    - id: 4058
+      texto: >
+        Drone de synth atmosférico, tonalidade Dó menor, 60 BPM.
+        Notas sustentadas com evolução tímbrica lenta. Sem ritmo
+        definido. Textura contínua e reutilizável.
+
+      resultados:
+        - id: 4058-SN-1
+        - id: 4058-SN-2
+        - id: 4058-UD-1
+        - id: 4058-UD-2
+
+    - id: 4059
+      texto: >
+        Drone de synth atmosférico, tonalidade Mi menor, 60 BPM.
+        Notas sustentadas com evolução tímbrica lenta. Sem ritmo
+        definido. Textura contínua e reutilizável.
+
+      resultados:
+        - id: 4059-SN-1
+        - id: 4059-SN-2
+        - id: 4059-UD-1
+        - id: 4059-UD-2
+
+    - id: 4060
+      texto: >
+        Drone de synth atmosférico, tonalidade Fá♯ menor, 60 BPM.
+        Notas sustentadas com evolução tímbrica lenta. Sem ritmo
+        definido. Textura contínua e reutilizável.
+
+      resultados:
+        - id: 4060-SN-1
+        - id: 4060-SN-2
+        - id: 4060-UD-1
+        - id: 4060-UD-2
+
+    - id: 4061
+      texto: >
+        Textura sonora baseada em ruído filtrado e granulado,
+        tonalidade Lá menor, 60 BPM. Sem elementos rítmicos definidos.
+        Evolução lenta e orgânica. Camada atmosférica reutilizável.
+
+      resultados:
+        - id: 4061-SN-1
+        - id: 4061-SN-2
+        - id: 4061-UD-1
+        - id: 4061-UD-2
+
+    - id: 4062
+      texto: >
+        Textura sonora baseada em ruído filtrado e granulado,
+        tonalidade Dó menor, 60 BPM. Sem elementos rítmicos definidos.
+        Evolução lenta e orgânica. Camada atmosférica reutilizável.
+
+      resultados:
+        - id: 4062-SN-1
+        - id: 4062-SN-2
+        - id: 4062-UD-1
+        - id: 4062-UD-2
+
+    - id: 4063
+      texto: >
+        Textura sonora baseada em ruído filtrado e granulado,
+        tonalidade Mi menor, 60 BPM. Sem elementos rítmicos definidos.
+        Evolução lenta e orgânica. Camada atmosférica reutilizável.
+
+      resultados:
+        - id: 4063-SN-1
+        - id: 4063-SN-2
+        - id: 4063-UD-1
+        - id: 4063-UD-2
+
+    - id: 4064
+      texto: >
+        Textura sonora baseada em ruído filtrado e granulado,
+        tonalidade Fá♯ menor, 60 BPM. Sem elementos rítmicos definidos.
+        Evolução lenta e orgânica. Camada atmosférica reutilizável.
+
+      resultados:
+        - id: 4064-SN-1
+        - id: 4064-SN-2
+        - id: 4064-UD-1
+        - id: 4064-UD-2
+
+    - id: 4065
+      texto: >
+        Swell de synth com reverb profundo e ataque suave, tonalidade
+        Lá menor, 85 BPM. Entrada gradual sem transiente forte.
+        Camada etérea e contínua. Pensado para loop.
+
+      resultados:
+        - id: 4065-SN-1
+        - id: 4065-SN-2
+        - id: 4065-UD-1
+        - id: 4065-UD-2
+
+    - id: 4066
+      texto: >
+        Swell de synth com reverb profundo e ataque suave, tonalidade
+        Dó menor, 85 BPM. Entrada gradual sem transiente forte.
+        Camada etérea e contínua. Pensado para loop.
+
+      resultados:
+        - id: 4066-SN-1
+        - id: 4066-SN-2
+        - id: 4066-UD-1
+        - id: 4066-UD-2
+
+    - id: 4067
+      texto: >
+        Swell de synth com reverb profundo e ataque suave, tonalidade
+        Mi menor, 85 BPM. Entrada gradual sem transiente forte.
+        Camada etérea e contínua. Pensado para loop.
+
+      resultados:
+        - id: 4067-SN-1
+        - id: 4067-SN-2
+        - id: 4067-UD-1
+        - id: 4067-UD-2
+
+    - id: 4068
+      texto: >
+        Swell de synth com reverb profundo e ataque suave, tonalidade
+        Fá♯ menor, 85 BPM. Entrada gradual sem transiente forte.
+        Camada etérea e contínua. Pensado para loop.
+
+      resultados:
+        - id: 4068-SN-1
+        - id: 4068-SN-2
+        - id: 4068-UD-1
+        - id: 4068-UD-2
+
+    - id: 4069
+      texto: >
+        Padrão pulsante de synth suave, tonalidade Lá menor, 90 BPM.
+        Repetição constante com variações mínimas. Sem percussão.
+        Atmosfera hipnótica e loopável.
+
+      resultados:
+        - id: 4069-SN-1
+        - id: 4069-SN-2
+        - id: 4069-UD-1
+        - id: 4069-UD-2
+
+    - id: 4070
+      texto: >
+        Padrão pulsante de synth suave, tonalidade Dó menor, 90 BPM.
+        Repetição constante com variações mínimas. Sem percussão.
+        Atmosfera hipnótica e loopável.
+
+      resultados:
+        - id: 4070-SN-1
+        - id: 4070-SN-2
+        - id: 4070-UD-1
+        - id: 4070-UD-2
+
+    - id: 4071
+      texto: >
+        Padrão pulsante de synth suave, tonalidade Mi menor, 90 BPM.
+        Repetição constante com variações mínimas. Sem percussão.
+        Atmosfera hipnótica e loopável.
+
+      resultados:
+        - id: 4071-SN-1
+        - id: 4071-SN-2
+        - id: 4071-UD-1
+        - id: 4071-UD-2
+
+    - id: 4072
+      texto: >
+        Padrão pulsante de synth suave, tonalidade Fá♯ menor, 90 BPM.
+        Repetição constante com variações mínimas. Sem percussão.
+        Atmosfera hipnótica e loopável.
+
+      resultados:
+        - id: 4072-SN-1
+        - id: 4072-SN-2
+        - id: 4072-UD-1
+        - id: 4072-UD-2
+
+    - id: 4073
+      texto: >
+        Textura glitch leve com cliques digitais sutis, tonalidade
+        Lá menor, 90 BPM. Ritmo irregular e discreto. Sem elementos
+        dominantes. Uso como camada rítmica leve.
+
+      resultados:
+        - id: 4073-SN-1
+        - id: 4073-SN-2
+        - id: 4073-UD-1
+        - id: 4073-UD-2
+
+    - id: 4074
+      texto: >
+        Textura glitch leve com cliques digitais sutis, tonalidade
+        Dó menor, 90 BPM. Ritmo irregular e discreto. Sem elementos
+        dominantes. Uso como camada rítmica leve.
+
+      resultados:
+        - id: 4074-SN-1
+        - id: 4074-SN-2
+        - id: 4074-UD-1
+        - id: 4074-UD-2
+
+    - id: 4075
+      texto: >
+        Textura glitch leve com cliques digitais sutis, tonalidade
+        Mi menor, 90 BPM. Ritmo irregular e discreto. Sem elementos
+        dominantes. Uso como camada rítmica leve.
+
+      resultados:
+        - id: 4075-SN-1
+        - id: 4075-SN-2
+        - id: 4075-UD-1
+        - id: 4075-UD-2
+
+    - id: 4076
+      texto: >
+        Textura glitch leve com cliques digitais sutis, tonalidade
+        Fá♯ menor, 90 BPM. Ritmo irregular e discreto. Sem elementos
+        dominantes. Uso como camada rítmica leve.
+
+      resultados:
+        - id: 4076-SN-1
+        - id: 4076-SN-2
+        - id: 4076-UD-1
+        - id: 4076-UD-2
+
+    - id: 4077
+      texto: >
+        Textura de harmônicos naturais e ressonâncias, tonalidade
+        Lá menor, 95 BPM. Sons leves e espaçados. Sem ritmo definido.
+        Camada etérea e reutilizável.
+
+      resultados:
+        - id: 4077-SN-1
+        - id: 4077-SN-2
+        - id: 4077-UD-1
+        - id: 4077-UD-2
+
+    - id: 4078
+      texto: >
+        Textura de harmônicos naturais e ressonâncias, tonalidade
+        Dó menor, 95 BPM. Sons leves e espaçados. Sem ritmo definido.
+        Camada etérea e reutilizável.
+
+      resultados:
+        - id: 4078-SN-1
+        - id: 4078-SN-2
+        - id: 4078-UD-1
+        - id: 4078-UD-2
+
+    - id: 4079
+      texto: >
+        Textura de harmônicos naturais e ressonâncias, tonalidade
+        Mi menor, 95 BPM. Sons leves e espaçados. Sem ritmo definido.
+        Camada etérea e reutilizável.
+
+      resultados:
+        - id: 4079-SN-1
+        - id: 4079-SN-2
+        - id: 4079-UD-1
+        - id: 4079-UD-2
+
+    - id: 4080
+      texto: >
+        Textura de harmônicos naturais e ressonâncias, tonalidade
+        Fá♯ menor, 95 BPM. Sons leves e espaçados. Sem ritmo definido.
+        Camada etérea e reutilizável.
+
+      resultados:
+        - id: 4080-SN-1
+        - id: 4080-SN-2
+        - id: 4080-UD-1
+        - id: 4080-UD-2
