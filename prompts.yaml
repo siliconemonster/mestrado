@@ -1,0 +1,479 @@
+experimentos:
+
+  nome: Experimento 1 - Geração a partir de prompt
+
+  nome: Experimento 2 - Geração a partir de uma base
+
+  nome: Experimento 3 - Geração baseada em descritores subjetivos
+
+  nome: Experimento 4 - Geração com parâmetros técnicos explícitos
+
+  prompts:
+
+    - id: 4001
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Lá menor, 85 BPM. Sem vocais. Pads analógicos densos, synth levemente desafinado. Foco principal na harmonia. Arranjo minimalista, mixagem limpa, elementos bem separados. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4001-ETTA-1
+        - id: 4001-ETTA-2
+        - id: 4001-ETTA-3
+        - id: 4001-SN-1
+        - id: 4001-SN-2
+        - id: 4001-UD-1
+        - id: 4001-UD-2
+        
+        - id: 4002
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Dó menor, 75 BPM. Sem vocais. Bateria eletrônica suave com groove lento. Foco principal na bateria. Arranjo simples, pouca variação harmônica. Mixagem limpa, sem masterização excessiva.
+
+      resultados:
+        - id: 4002-ETTA-1
+        - id: 4002-ETTA-2
+        - id: 4002-ETTA-3
+        - id: 4002-SN-1
+        - id: 4002-SN-2
+        - id: 4002-UD-1
+        - id: 4002-UD-2
+
+    - id: 4003
+      texto: >
+        Faixa instrumental no estilo trip hop, tonalidade Mi menor, 90 BPM. Sem vocais. Bateria com swing leve e textura lo-fi. Foco principal no baixo profundo e expressivo. Ambiência cinematográfica. Arranjo minimalista, loopável.
+
+      resultados:
+        - id: 4003-ETTA-1
+        - id: 4003-ETTA-2
+        - id: 4003-ETTA-3
+        - id: 4003-SN-1
+        - id: 4003-SN-2
+        - id: 4003-UD-1
+        - id: 4003-UD-2
+
+    - id: 4004
+      texto: >
+        Faixa instrumental no estilo dream pop, tonalidade Fá sustenido menor, 95 BPM. Sem vocais. Guitarras com chorus e reverb amplo. Foco principal na progressão harmônica. Atmosfera etérea, dinâmica moderada. Mix limpa e estéreo amplo.
+
+      resultados:
+        - id: 4004-ETTA-1
+        - id: 4004-ETTA-2
+        - id: 4004-ETTA-3
+        - id: 4004-SN-1
+        - id: 4004-SN-2
+        - id: 4004-UD-1
+        - id: 4004-UD-2
+
+    - id: 4005
+      texto: >
+        Faixa instrumental no estilo ambient, tonalidade Dó menor, 60 BPM. Sem percussão marcante. Foco em camadas harmônicas sustentadas e texturas granulares. Sem vocais. Evolução lenta. Estrutura simples, reutilizável.
+
+      resultados:
+        - id: 4005-ETTA-1
+        - id: 4005-ETTA-2
+        - id: 4005-ETTA-3
+        - id: 4005-SN-1
+        - id: 4005-SN-2
+        - id: 4005-UD-1
+        - id: 4005-UD-2
+
+    - id: 4006
+      texto: >
+        Faixa instrumental no estilo darkwave, tonalidade Lá menor, 110 BPM. Sem vocais. Linha de baixo pulsante e repetitiva. Bateria eletrônica seca. Atmosfera sombria. Arranjo minimalista, pensado para loop.
+
+      resultados:
+        - id: 4006-ETTA-1
+        - id: 4006-ETTA-2
+        - id: 4006-ETTA-3
+        - id: 4006-SN-1
+        - id: 4006-SN-2
+        - id: 4006-UD-1
+        - id: 4006-UD-2
+
+    - id: 4007
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Lá menor, 95 BPM. Sem vocais. Bateria suave com groove relaxado. Baixo elétrico macio. Foco principal na harmonia com acordes estendidos (m7, maj7, 9ª). Arranjo minimalista, elementos bem separados. Mixagem limpa, sem masterização excessiva. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4007-ETTA-1
+        - id: 4007-ETTA-2
+        - id: 4007-ETTA-3
+        - id: 4007-SN-1
+        - id: 4007-SN-2
+        - id: 4007-UD-1
+        - id: 4007-UD-2
+
+    - id: 4008
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Dó menor, 90 BPM. Sem vocais. Groove discreto com bateria eletrônica suave. Foco principal no baixo elétrico expressivo. Acordes sofisticados com extensões. Estrutura simples A-B-A. Sem efeitos extremos. Loopável e reutilizável.
+
+      resultados:
+        - id: 4008-ETTA-1
+        - id: 4008-ETTA-2
+        - id: 4008-ETTA-3
+        - id: 4008-SN-1
+        - id: 4008-SN-2
+        - id: 4008-UD-1
+        - id: 4008-UD-2
+
+    - id: 4009
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Fá sustenido menor, 100 BPM. Sem vocais. Bateria com swing leve e timbres suaves. Foco principal no groove da bateria. Pads e teclados elétricos com acordes estendidos. Mix limpa, dinâmica moderada. Arranjo minimalista e reutilizável.
+
+      resultados:
+        - id: 4009-ETTA-1
+        - id: 4009-ETTA-2
+        - id: 4009-ETTA-3
+        - id: 4009-SN-1
+        - id: 4009-SN-2
+        - id: 4009-UD-1
+        - id: 4009-UD-2
+
+    - id: 4010
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Dó menor, 85 BPM. Sem vocais. Pads analógicos densos, synth levemente desafinado. Foco principal na harmonia. Arranjo minimalista, mixagem limpa, elementos bem separados. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4010-ETTA-1
+        - id: 4010-ETTA-2
+        - id: 4010-ETTA-3
+        - id: 4010-SN-1
+        - id: 4010-SN-2
+        - id: 4010-UD-1
+        - id: 4010-UD-2
+
+    - id: 4011
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Mi menor, 85 BPM. Sem vocais. Pads analógicos densos, synth levemente desafinado. Foco principal na harmonia. Arranjo minimalista, mixagem limpa, elementos bem separados. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4011-ETTA-1
+        - id: 4011-ETTA-2
+        - id: 4011-ETTA-3
+        - id: 4011-SN-1
+        - id: 4011-SN-2
+        - id: 4011-UD-1
+        - id: 4011-UD-2
+
+    - id: 4012
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Fá sustenido menor, 85 BPM. Sem vocais. Pads analógicos densos, synth levemente desafinado. Foco principal na harmonia. Arranjo minimalista, mixagem limpa, elementos bem separados. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4012-ETTA-1
+        - id: 4012-ETTA-2
+        - id: 4012-ETTA-3
+        - id: 4012-SN-1
+        - id: 4012-SN-2
+        - id: 4012-UD-1
+        - id: 4012-UD-2
+
+    - id: 4013
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Lá menor, 75 BPM. Sem vocais. Bateria eletrônica suave com groove lento. Foco principal na bateria. Arranjo simples, pouca variação harmônica. Mixagem limpa, sem masterização excessiva.
+
+      resultados:
+        - id: 4013-ETTA-1
+        - id: 4013-ETTA-2
+        - id: 4013-ETTA-3
+        - id: 4013-SN-1
+        - id: 4013-SN-2
+        - id: 4013-UD-1
+        - id: 4013-UD-2
+
+    - id: 4014
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Mi menor, 75 BPM. Sem vocais. Bateria eletrônica suave com groove lento. Foco principal na bateria. Arranjo simples, pouca variação harmônica. Mixagem limpa, sem masterização excessiva.
+
+      resultados:
+        - id: 4014-ETTA-1
+        - id: 4014-ETTA-2
+        - id: 4014-ETTA-3
+        - id: 4014-SN-1
+        - id: 4014-SN-2
+        - id: 4014-UD-1
+        - id: 4014-UD-2
+
+    - id: 4015
+      texto: >
+        Faixa instrumental no estilo vaporwave, tonalidade Fá sustenido menor, 75 BPM. Sem vocais. Bateria eletrônica suave com groove lento. Foco principal na bateria. Arranjo simples, pouca variação harmônica. Mixagem limpa, sem masterização excessiva.
+
+      resultados:
+        - id: 4015-ETTA-1
+        - id: 4015-ETTA-2
+        - id: 4015-ETTA-3
+        - id: 4015-SN-1
+        - id: 4015-SN-2
+        - id: 4015-UD-1
+        - id: 4015-UD-2
+
+    - id: 4016
+      texto: >
+        Faixa instrumental no estilo trip hop, tonalidade Lá menor, 90 BPM. Sem vocais. Bateria com swing leve e textura lo-fi. Foco principal no baixo profundo e expressivo. Ambiência cinematográfica. Arranjo minimalista, loopável.
+
+      resultados:
+        - id: 4016-ETTA-1
+        - id: 4016-ETTA-2
+        - id: 4016-ETTA-3
+        - id: 4016-SN-1
+        - id: 4016-SN-2
+        - id: 4016-UD-1
+        - id: 4016-UD-2
+
+    - id: 4017
+      texto: >
+        Faixa instrumental no estilo trip hop, tonalidade Dó menor, 90 BPM. Sem vocais. Bateria com swing leve e textura lo-fi. Foco principal no baixo profundo e expressivo. Ambiência cinematográfica. Arranjo minimalista, loopável.
+
+      resultados:
+        - id: 4017-ETTA-1
+        - id: 4017-ETTA-2
+        - id: 4017-ETTA-3
+        - id: 4017-SN-1
+        - id: 4017-SN-2
+        - id: 4017-UD-1
+        - id: 4017-UD-2
+
+    - id: 4018
+      texto: >
+        Faixa instrumental no estilo trip hop, tonalidade Fá sustenido menor, 90 BPM. Sem vocais. Bateria com swing leve e textura lo-fi. Foco principal no baixo profundo e expressivo. Ambiência cinematográfica. Arranjo minimalista, loopável.
+
+      resultados:
+        - id: 4018-ETTA-1
+        - id: 4018-ETTA-2
+        - id: 4018-ETTA-3
+        - id: 4018-SN-1
+        - id: 4018-SN-2
+        - id: 4018-UD-1
+        - id: 4018-UD-2
+
+    - id: 4019
+      texto: >
+        Faixa instrumental no estilo dream pop, tonalidade Lá menor, 95 BPM. Sem vocais. Guitarras com chorus e reverb amplo. Foco principal na progressão harmônica. Atmosfera etérea, dinâmica moderada. Mix limpa e estéreo amplo.
+
+      resultados:
+        - id: 4019-ETTA-1
+        - id: 4019-ETTA-2
+        - id: 4019-ETTA-3
+        - id: 4019-SN-1
+        - id: 4019-SN-2
+        - id: 4019-UD-1
+        - id: 4019-UD-2
+
+    - id: 4020
+      texto: >
+        Faixa instrumental no estilo dream pop, tonalidade Dó menor, 95 BPM. Sem vocais. Guitarras com chorus e reverb amplo. Foco principal na progressão harmônica. Atmosfera etérea, dinâmica moderada. Mix limpa e estéreo amplo.
+
+      resultados:
+        - id: 4020-ETTA-1
+        - id: 4020-ETTA-2
+        - id: 4020-ETTA-3
+        - id: 4020-SN-1
+        - id: 4020-SN-2
+        - id: 4020-UD-1
+        - id: 4020-UD-2
+
+    - id: 4021
+      texto: >
+        Faixa instrumental no estilo dream pop, tonalidade Mi menor, 95 BPM. Sem vocais. Guitarras com chorus e reverb amplo. Foco principal na progressão harmônica. Atmosfera etérea, dinâmica moderada. Mix limpa e estéreo amplo.
+
+      resultados:
+        - id: 4021-ETTA-1
+        - id: 4021-ETTA-2
+        - id: 4021-ETTA-3
+        - id: 4021-SN-1
+        - id: 4021-SN-2
+        - id: 4021-UD-1
+        - id: 4021-UD-2
+
+    - id: 4022
+      texto: >
+        Faixa instrumental no estilo ambient, tonalidade Lá menor, 60 BPM. Sem percussão marcante. Foco em camadas harmônicas sustentadas e texturas granulares. Sem vocais. Evolução lenta. Estrutura simples, reutilizável.
+
+      resultados:
+        - id: 4022-ETTA-1
+        - id: 4022-ETTA-2
+        - id: 4022-ETTA-3
+        - id: 4022-SN-1
+        - id: 4022-SN-2
+        - id: 4022-SN-3
+        - id: 4022-SN-4
+        - id: 4022-UD-1
+        - id: 4022-UD-2
+
+    - id: 4023
+      texto: >
+        Faixa instrumental no estilo ambient, tonalidade Mi menor, 60 BPM. Sem percussão marcante. Foco em camadas harmônicas sustentadas e texturas granulares. Sem vocais. Evolução lenta. Estrutura simples, reutilizável.
+
+      resultados:
+        - id: 4023-ETTA-1
+        - id: 4023-ETTA-2
+        - id: 4023-ETTA-3
+        - id: 4023-SN-1
+        - id: 4023-SN-2
+        - id: 4023-UD-1
+        - id: 4023-UD-2
+
+    - id: 4024
+      texto: >
+        Faixa instrumental no estilo ambient, tonalidade Fá sustenido menor, 60 BPM. Sem percussão marcante. Foco em camadas harmônicas sustentadas e texturas granulares. Sem vocais. Evolução lenta. Estrutura simples, reutilizável.
+
+      resultados:
+        - id: 4024-ETTA-1
+        - id: 4024-ETTA-2
+        - id: 4024-ETTA-3
+        - id: 4024-SN-1
+        - id: 4024-SN-2
+        - id: 4024-UD-1
+        - id: 4024-UD-2
+
+    - id: 4025
+      texto: >
+        Faixa instrumental no estilo darkwave, tonalidade Dó menor, 110 BPM. Sem vocais. Linha de baixo pulsante e repetitiva. Bateria eletrônica seca. Atmosfera sombria. Arranjo minimalista, pensado para loop.
+
+      resultados:
+        - id: 4025-ETTA-1
+        - id: 4025-ETTA-2
+        - id: 4025-ETTA-3
+        - id: 4025-SN-1
+        - id: 4025-SN-2
+        - id: 4025-UD-1
+        - id: 4025-UD-2
+
+    - id: 4026
+      texto: >
+        Faixa instrumental no estilo darkwave, tonalidade Mi menor, 110 BPM. Sem vocais. Linha de baixo pulsante e repetitiva. Bateria eletrônica seca. Atmosfera sombria. Arranjo minimalista, pensado para loop.
+
+      resultados:
+        - id: 4026-ETTA-1
+        - id: 4026-ETTA-2
+        - id: 4026-ETTA-3
+        - id: 4026-SN-1
+        - id: 4026-SN-2
+        - id: 4026-UD-1
+        - id: 4026-UD-2
+
+    - id: 4027
+      texto: >
+        Faixa instrumental no estilo darkwave, tonalidade Fá sustenido menor, 110 BPM. Sem vocais. Linha de baixo pulsante e repetitiva. Bateria eletrônica seca. Atmosfera sombria. Arranjo minimalista, pensado para loop.
+
+      resultados:
+        - id: 4027-ETTA-1
+        - id: 4027-ETTA-2
+        - id: 4027-ETTA-3
+        - id: 4027-SN-1
+        - id: 4027-SN-2
+        - id: 4027-UD-1
+        - id: 4027-UD-2
+
+    - id: 4028
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Dó menor, 95 BPM. Sem vocais. Bateria suave com groove relaxado. Baixo elétrico macio. Foco principal na harmonia com acordes estendidos (m7, maj7, 9ª). Arranjo minimalista, elementos bem separados. Mixagem limpa, sem masterização excessiva. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4028-ETTA-1
+        - id: 4028-ETTA-2
+        - id: 4028-ETTA-3
+        - id: 4028-SN-1
+        - id: 4028-SN-2
+        - id: 4028-UD-1
+        - id: 4028-UD-2
+
+    - id: 4029
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Mi menor, 95 BPM. Sem vocais. Bateria suave com groove relaxado. Baixo elétrico macio. Foco principal na harmonia com acordes estendidos (m7, maj7, 9ª). Arranjo minimalista, elementos bem separados. Mixagem limpa, sem masterização excessiva. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4029-ETTA-1
+        - id: 4029-ETTA-2
+        - id: 4029-ETTA-3
+        - id: 4029-SN-1
+        - id: 4029-SN-2
+        - id: 4029-UD-1
+        - id: 4029-UD-2
+
+    - id: 4030
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Fá sustenido menor, 95 BPM. Sem vocais. Bateria suave com groove relaxado. Baixo elétrico macio. Foco principal na harmonia com acordes estendidos (m7, maj7, 9ª). Arranjo minimalista, elementos bem separados. Mixagem limpa, sem masterização excessiva. Pensado para ser reutilizável e loopável.
+
+      resultados:
+        - id: 4030-ETTA-1
+        - id: 4030-ETTA-2
+        - id: 4030-ETTA-3
+        - id: 4030-SN-1
+        - id: 4030-SN-2
+        - id: 4030-UD-1
+        - id: 4030-UD-2
+
+    - id: 4031
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Lá menor, 90 BPM. Sem vocais. Groove discreto com bateria eletrônica suave. Foco principal no baixo elétrico expressivo. Acordes sofisticados com extensões. Estrutura simples A-B-A. Sem efeitos extremos. Loopável e reutilizável.
+
+      resultados:
+        - id: 4031-ETTA-1
+        - id: 4031-ETTA-2
+        - id: 4031-ETTA-3
+        - id: 4031-SN-1
+        - id: 4031-SN-2
+        - id: 4031-UD-1
+        - id: 4031-UD-2
+
+    - id: 4032
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Mi menor, 90 BPM. Sem vocais. Groove discreto com bateria eletrônica suave. Foco principal no baixo elétrico expressivo. Acordes sofisticados com extensões. Estrutura simples A-B-A. Sem efeitos extremos. Loopável e reutilizável.
+
+      resultados:
+        - id: 4032-ETTA-1
+        - id: 4032-ETTA-2
+        - id: 4032-ETTA-3
+        - id: 4032-SN-1
+        - id: 4032-SN-2
+        - id: 4032-UD-1
+        - id: 4032-UD-2
+
+    - id: 4033
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Fá sustenido menor, 90 BPM. Sem vocais. Groove discreto com bateria eletrônica suave. Foco principal no baixo elétrico expressivo. Acordes sofisticados com extensões. Estrutura simples A-B-A. Sem efeitos extremos. Loopável e reutilizável.
+
+      resultados:
+        - id: 4033-ETTA-1
+        - id: 4033-ETTA-2
+        - id: 4033-ETTA-3
+        - id: 4033-SN-1
+        - id: 4033-SN-2
+        - id: 4033-UD-1
+        - id: 4033-UD-2
+
+    - id: 4034
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Lá menor, 100 BPM. Sem vocais. Bateria com swing leve e timbres suaves. Foco principal no groove da bateria. Pads e teclados elétricos com acordes estendidos. Mix limpa, dinâmica moderada. Arranjo minimalista e reutilizável.
+
+      resultados:
+        - id: 4034-ETTA-1
+        - id: 4034-ETTA-2
+        - id: 4034-ETTA-3
+        - id: 4034-SN-1
+        - id: 4034-SN-2
+        - id: 4034-UD-1
+        - id: 4034-UD-2
+
+    - id: 4035
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Dó menor, 100 BPM. Sem vocais. Bateria com swing leve e timbres suaves. Foco principal no groove da bateria. Pads e teclados elétricos com acordes estendidos. Mix limpa, dinâmica moderada. Arranjo minimalista e reutilizável.
+
+      resultados:
+        - id: 4035-ETTA-1
+        - id: 4035-ETTA-2
+        - id: 4035-ETTA-3
+        - id: 4035-SN-1
+        - id: 4035-SN-2
+        - id: 4035-UD-1
+        - id: 4035-UD-2
+
+    - id: 4036
+      texto: >
+        Faixa instrumental no estilo lounge, tonalidade Mi menor, 100 BPM. Sem vocais. Bateria com swing leve e timbres suaves. Foco principal no groove da bateria. Pads e teclados elétricos com acordes estendidos. Mix limpa, dinâmica moderada. Arranjo minimalista e reutilizável.
+
+      resultados:
+        - id: 4036-ETTA-1
+        - id: 4036-ETTA-2
+        - id: 4036-ETTA-3
+        - id: 4036-SN-1
+        - id: 4036-SN-2
