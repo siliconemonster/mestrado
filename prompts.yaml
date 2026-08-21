@@ -604,3 +604,226 @@ experimentos:
         - id: 4036-ETTA-2
         - id: 4036-SN-1
         - id: 4036-SN-2
+
+    - id: 4037
+      texto: >
+        Linha melódica de synth analógico no estilo vaporwave,
+        tonalidade Dó menor, 85 BPM. Sem acordes completos.
+        Timbre levemente desafinado. Frase clara, repetitiva e
+        reutilizável.
+
+      resultados:
+        - id: 4037-ETTA-1
+        - id: 4037-ETTA-2
+        - id: 4037-ETTA-3
+
+    - id: 4038
+      texto: >
+        Linha melódica de synth analógico no estilo vaporwave,
+        tonalidade Mi menor, 85 BPM. Sem acordes completos.
+        Timbre levemente desafinado. Frase clara, repetitiva e
+        reutilizável.
+
+      resultados:
+        - id: 4038-ETTA-1
+        - id: 4038-ETTA-2
+        - id: 4038-ETTA-3
+
+    - id: 4039
+      texto: >
+        Linha melódica de synth analógico no estilo vaporwave,
+        tonalidade Fá♯ menor, 85 BPM. Sem acordes completos.
+        Timbre levemente desafinado. Frase clara, repetitiva e
+        reutilizável.
+
+      resultados:
+        - id: 4039-ETTA-1
+        - id: 4039-ETTA-2
+        - id: 4039-ETTA-3
+
+    - id: 4040
+      texto: >
+        Motivo melódico curto em synth lo-fi no estilo chillwave,
+        tonalidade Lá menor, 90 BPM. Poucas notas do campo harmônico.
+        Ritmo simples e hipnótico. Sem acordes.
+
+      resultados:
+        - id: 4040-ETTA-1
+        - id: 4040-ETTA-2
+        - id: 4040-ETTA-3
+
+    - id: 4041
+      texto: >
+        Motivo melódico curto em synth lo-fi no estilo chillwave,
+        tonalidade Dó menor, 90 BPM. Poucas notas do campo harmônico.
+        Ritmo simples e hipnótico. Sem acordes.
+
+      resultados:
+        - id: 4041-ETTA-1
+        - id: 4041-ETTA-2
+        - id: 4041-ETTA-3
+
+    - id: 4042
+      texto: >
+        Motivo melódico curto em synth lo-fi no estilo chillwave,
+        tonalidade Mi menor, 90 BPM. Poucas notas do campo harmônico.
+        Ritmo simples e hipnótico. Sem acordes.
+
+      resultados:
+        - id: 4042-ETTA-1
+        - id: 4042-ETTA-2
+        - id: 4042-ETTA-3
+
+    - id: 4043
+      texto: >
+        Motivo melódico curto em synth lo-fi no estilo chillwave,
+        tonalidade Fá♯ menor, 90 BPM. Poucas notas do campo harmônico.
+        Ritmo simples e hipnótico. Sem acordes.
+
+      resultados:
+        - id: 4043-ETTA-1
+        - id: 4043-ETTA-2
+        - id: 4043-ETTA-3
+
+    - id: 4044
+      texto: >
+        Padrão de bateria eletrônica estilo trip hop, tonalidade
+        Lá menor, 90 BPM. Groove com swing leve. Kick, snare e hi-hat
+        definidos. Sem outros instrumentos. Pensado para loop.
+
+      resultados:
+        - id: 4044-ETTA-1
+        - id: 4044-ETTA-2
+        - id: 4044-ETTA-3
+
+    - id: 4045
+      texto: >
+        Padrão de bateria eletrônica estilo trip hop, tonalidade
+        Dó menor, 90 BPM. Groove com swing leve. Kick, snare e hi-hat
+        definidos. Sem outros instrumentos. Pensado para loop.
+
+      resultados:
+        - id: 4045-ETTA-1
+        - id: 4045-ETTA-2
+        - id: 4045-ETTA-3
+
+    - id: 4046
+      texto: >
+        Padrão de bateria eletrônica estilo trip hop, tonalidade
+        Mi menor, 90 BPM. Groove com swing leve. Kick, snare e hi-hat
+        definidos. Sem outros instrumentos. Pensado para loop.
+
+      resultados:
+        - id: 4046-ETTA-1
+        - id: 4046-ETTA-2
+        - id: 4046-ETTA-3
+
+    - id: 4047
+      texto: >
+        Padrão de bateria eletrônica estilo trip hop, tonalidade
+        Fá♯ menor, 90 BPM. Groove com swing leve. Kick, snare e hi-hat
+        definidos. Sem outros instrumentos. Pensado para loop.
+
+      resultados:
+        - id: 4047-ETTA-1
+        - id: 4047-ETTA-2
+        - id: 4047-ETTA-3
+
+    - id: 4048
+      texto: >
+        Linha de baixo elétrico estilo lounge, tonalidade Lá menor,
+        95 BPM. Groove suave usando notas do campo harmônico. Sem
+        acordes ou melodia adicional. Repetitiva e reutilizável.
+
+      resultados:
+        - id: 4048-ETTA-1
+        - id: 4048-ETTA-2
+        - id: 4048-ETTA-3
+
+    - id: 4049
+      texto: >
+        Linha de baixo elétrico estilo lounge, tonalidade Dó menor,
+        95 BPM. Groove suave usando notas do campo harmônico. Sem
+        acordes ou melodia adicional. Repetitiva e reutilizável.
+
+      resultados:
+        - id: 4049-ETTA-1
+        - id: 4049-ETTA-2
+        - id: 4049-ETTA-3
+
+    - id: 4050
+      texto: >
+        Linha de baixo elétrico estilo lounge, tonalidade Mi menor,
+        95 BPM. Groove suave usando notas do campo harmônico. Sem
+        acordes ou melodia adicional. Repetitiva e reutilizável.
+
+      resultados:
+        - id: 4050-ETTA-1
+        - id: 4050-ETTA-2
+        - id: 4050-ETTA-3
+
+    - id: 4051
+      texto: >
+        Linha de baixo elétrico estilo lounge, tonalidade Fá♯ menor,
+        95 BPM. Groove suave usando notas do campo harmônico. Sem
+        acordes ou melodia adicional. Repetitiva e reutilizável.
+
+      resultados:
+        - id: 4051-ETTA-1
+        - id: 4051-ETTA-2
+        - id: 4051-ETTA-3
+
+    - id: 4052
+      texto: >
+        Riff de guitarra elétrica com chorus e reverb amplo no estilo
+        dream pop, tonalidade Lá menor, 95 BPM. Frase melódica simples
+        e repetitiva. Timbre etéreo. Pensado para loop.
+
+      resultados:
+        - id: 4052-ETTA-1
+        - id: 4052-ETTA-2
+        - id: 4052-ETTA-3
+
+    - id: 4053
+      texto: >
+        Arpejo de synth analógico no estilo synthwave, tonalidade
+        Lá menor, 90 BPM. Notas do campo harmônico tocadas em padrão
+        arpejado contínuo. Timbre vintage. Pensado para loop.
+
+      resultados:
+        - id: 4053-ETTA-1
+        - id: 4053-ETTA-2
+        - id: 4053-ETTA-3
+
+    - id: 4054
+      texto: >
+        Arpejo de synth analógico no estilo synthwave, tonalidade
+        Dó menor, 90 BPM. Notas do campo harmônico tocadas em padrão
+        arpejado contínuo. Timbre vintage. Pensado para loop.
+
+      resultados:
+        - id: 4054-ETTA-1
+        - id: 4054-ETTA-2
+        - id: 4054-ETTA-3
+
+    - id: 4055
+      texto: >
+        Arpejo de synth analógico no estilo synthwave, tonalidade
+        Mi menor, 90 BPM. Notas do campo harmônico tocadas em padrão
+        arpejado contínuo. Timbre vintage. Pensado para loop.
+
+      resultados:
+        - id: 4055-ETTA-1
+        - id: 4055-ETTA-2
+        - id: 4055-ETTA-3
+
+    - id: 4056
+      texto: >
+        Arpejo de synth analógico no estilo synthwave, tonalidade
+        Fá♯ menor, 90 BPM. Notas do campo harmônico tocadas em padrão
+        arpejado contínuo. Timbre vintage. Pensado para loop.
+
+      resultados:
+        - id: 4056-ETTA-1
+        - id: 4056-ETTA-2
+        - id: 4056-ETTA-3
