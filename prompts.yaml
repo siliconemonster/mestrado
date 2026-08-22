@@ -835,10 +835,10 @@ experimentos:
         definido. Textura contínua e reutilizável.
 
       resultados:
-        - id: 4057-SN-1
-        - id: 4057-SN-2
-        - id: 4057-UD-1
-        - id: 4057-UD-2
+        - id: 4057-SN-Am-1
+        - id: 4057-SN-Am-2
+        - id: 4057-UD-Am-1
+        - id: 4057-UD-Am-2
 
     - id: 4058
       texto: >
@@ -847,10 +847,10 @@ experimentos:
         definido. Textura contínua e reutilizável.
 
       resultados:
-        - id: 4058-SN-1
-        - id: 4058-SN-2
-        - id: 4058-UD-1
-        - id: 4058-UD-2
+        - id: 4058-SN-Cm-1
+        - id: 4058-SN-Cm-2
+        - id: 4058-UD-Cm-1
+        - id: 4058-UD-Cm-2
 
     - id: 4059
       texto: >
@@ -859,10 +859,10 @@ experimentos:
         definido. Textura contínua e reutilizável.
 
       resultados:
-        - id: 4059-SN-1
-        - id: 4059-SN-2
-        - id: 4059-UD-1
-        - id: 4059-UD-2
+        - id: 4059-SN-Em-1
+        - id: 4059-SN-Em-2
+        - id: 4059-UD-Em-1
+        - id: 4059-UD-Em-2
 
     - id: 4060
       texto: >
@@ -871,10 +871,10 @@ experimentos:
         definido. Textura contínua e reutilizável.
 
       resultados:
-        - id: 4060-SN-1
-        - id: 4060-SN-2
-        - id: 4060-UD-1
-        - id: 4060-UD-2
+        - id: 4060-SN-F#m-1
+        - id: 4060-SN-F#m-2
+        - id: 4060-UD-F#m-1
+        - id: 4060-UD-F#m-2
 
     - id: 4061
       texto: >
@@ -883,10 +883,10 @@ experimentos:
         Evolução lenta e orgânica. Camada atmosférica reutilizável.
 
       resultados:
-        - id: 4061-SN-1
-        - id: 4061-SN-2
-        - id: 4061-UD-1
-        - id: 4061-UD-2
+        - id: 4061-SN-Am-1
+        - id: 4061-SN-Am-2
+        - id: 4061-UD-Am-1
+        - id: 4061-UD-Am-2
 
     - id: 4062
       texto: >
@@ -895,10 +895,10 @@ experimentos:
         Evolução lenta e orgânica. Camada atmosférica reutilizável.
 
       resultados:
-        - id: 4062-SN-1
-        - id: 4062-SN-2
-        - id: 4062-UD-1
-        - id: 4062-UD-2
+        - id: 4062-SN-Cm-1
+        - id: 4062-SN-Cm-2
+        - id: 4062-UD-Cm-1
+        - id: 4062-UD-Cm-2
 
     - id: 4063
       texto: >
@@ -907,10 +907,10 @@ experimentos:
         Evolução lenta e orgânica. Camada atmosférica reutilizável.
 
       resultados:
-        - id: 4063-SN-1
-        - id: 4063-SN-2
-        - id: 4063-UD-1
-        - id: 4063-UD-2
+        - id: 4063-SN-Em-1
+        - id: 4063-SN-Em-2
+        - id: 4063-UD-Em-1
+        - id: 4063-UD-Em-2
 
     - id: 4064
       texto: >
@@ -919,10 +919,10 @@ experimentos:
         Evolução lenta e orgânica. Camada atmosférica reutilizável.
 
       resultados:
-        - id: 4064-SN-1
-        - id: 4064-SN-2
-        - id: 4064-UD-1
-        - id: 4064-UD-2
+        - id: 4064-SN-F#m-1
+        - id: 4064-SN-F#m-2
+        - id: 4064-UD-F#m-1
+        - id: 4064-UD-F#m-2
 
     - id: 4065
       texto: >
@@ -931,10 +931,10 @@ experimentos:
         Camada etérea e contínua. Pensado para loop.
 
       resultados:
-        - id: 4065-SN-1
-        - id: 4065-SN-2
-        - id: 4065-UD-1
-        - id: 4065-UD-2
+        - id: 4065-SN-Am-1
+        - id: 4065-SN-Am-2
+        - id: 4065-UD-Am-1
+        - id: 4065-UD-Am-2
 
     - id: 4066
       texto: >
@@ -943,10 +943,10 @@ experimentos:
         Camada etérea e contínua. Pensado para loop.
 
       resultados:
-        - id: 4066-SN-1
-        - id: 4066-SN-2
-        - id: 4066-UD-1
-        - id: 4066-UD-2
+        - id: 4066-SN-Cm-1
+        - id: 4066-SN-Cm-2
+        - id: 4066-UD-Cm-1
+        - id: 4066-UD-Cm-2
 
     - id: 4067
       texto: >
@@ -955,10 +955,10 @@ experimentos:
         Camada etérea e contínua. Pensado para loop.
 
       resultados:
-        - id: 4067-SN-1
-        - id: 4067-SN-2
-        - id: 4067-UD-1
-        - id: 4067-UD-2
+        - id: 4067-SN-Em-1
+        - id: 4067-SN-Em-2
+        - id: 4067-UD-Em-1
+        - id: 4067-UD-Em-2
 
     - id: 4068
       texto: >
@@ -967,10 +967,10 @@ experimentos:
         Camada etérea e contínua. Pensado para loop.
 
       resultados:
-        - id: 4068-SN-1
-        - id: 4068-SN-2
-        - id: 4068-UD-1
-        - id: 4068-UD-2
+        - id: 4068-SN-F#m-1
+        - id: 4068-SN-F#m-2
+        - id: 4068-UD-F#m-1
+        - id: 4068-UD-F#m-2
 
     - id: 4069
       texto: >
@@ -979,10 +979,10 @@ experimentos:
         Atmosfera hipnótica e loopável.
 
       resultados:
-        - id: 4069-SN-1
-        - id: 4069-SN-2
-        - id: 4069-UD-1
-        - id: 4069-UD-2
+        - id: 4069-SN-Am-1
+        - id: 4069-SN-Am-2
+        - id: 4069-UD-Am-1
+        - id: 4069-UD-Am-2
 
     - id: 4070
       texto: >
@@ -991,10 +991,10 @@ experimentos:
         Atmosfera hipnótica e loopável.
 
       resultados:
-        - id: 4070-SN-1
-        - id: 4070-SN-2
-        - id: 4070-UD-1
-        - id: 4070-UD-2
+        - id: 4070-SN-Cm-1
+        - id: 4070-SN-Cm-2
+        - id: 4070-UD-Cm-1
+        - id: 4070-UD-Cm-2
 
     - id: 4071
       texto: >
@@ -1003,10 +1003,10 @@ experimentos:
         Atmosfera hipnótica e loopável.
 
       resultados:
-        - id: 4071-SN-1
-        - id: 4071-SN-2
-        - id: 4071-UD-1
-        - id: 4071-UD-2
+        - id: 4071-SN-Em-1
+        - id: 4071-SN-Em-2
+        - id: 4071-UD-Em-1
+        - id: 4071-UD-Em-2
 
     - id: 4072
       texto: >
@@ -1015,10 +1015,10 @@ experimentos:
         Atmosfera hipnótica e loopável.
 
       resultados:
-        - id: 4072-SN-1
-        - id: 4072-SN-2
-        - id: 4072-UD-1
-        - id: 4072-UD-2
+        - id: 4072-SN-F#m-1
+        - id: 4072-SN-F#m-2
+        - id: 4072-UD-F#m-1
+        - id: 4072-UD-F#m-2
 
     - id: 4073
       texto: >
@@ -1027,10 +1027,10 @@ experimentos:
         dominantes. Uso como camada rítmica leve.
 
       resultados:
-        - id: 4073-SN-1
-        - id: 4073-SN-2
-        - id: 4073-UD-1
-        - id: 4073-UD-2
+        - id: 4073-SN-Am-1
+        - id: 4073-SN-Am-2
+        - id: 4073-UD-Am-1
+        - id: 4073-UD-Am-2
 
     - id: 4074
       texto: >
@@ -1039,10 +1039,10 @@ experimentos:
         dominantes. Uso como camada rítmica leve.
 
       resultados:
-        - id: 4074-SN-1
-        - id: 4074-SN-2
-        - id: 4074-UD-1
-        - id: 4074-UD-2
+        - id: 4074-SN-Cm-1
+        - id: 4074-SN-Cm-2
+        - id: 4074-UD-Cm-1
+        - id: 4074-UD-Cm-2
 
     - id: 4075
       texto: >
@@ -1051,10 +1051,10 @@ experimentos:
         dominantes. Uso como camada rítmica leve.
 
       resultados:
-        - id: 4075-SN-1
-        - id: 4075-SN-2
-        - id: 4075-UD-1
-        - id: 4075-UD-2
+        - id: 4075-SN-Em-1
+        - id: 4075-SN-Em-2
+        - id: 4075-UD-Em-1
+        - id: 4075-UD-Em-2
 
     - id: 4076
       texto: >
@@ -1063,10 +1063,10 @@ experimentos:
         dominantes. Uso como camada rítmica leve.
 
       resultados:
-        - id: 4076-SN-1
-        - id: 4076-SN-2
-        - id: 4076-UD-1
-        - id: 4076-UD-2
+        - id: 4076-SN-F#m-1
+        - id: 4076-SN-F#m-2
+        - id: 4076-UD-F#m-1
+        - id: 4076-UD-F#m-2
 
     - id: 4077
       texto: >
@@ -1075,10 +1075,10 @@ experimentos:
         Camada etérea e reutilizável.
 
       resultados:
-        - id: 4077-SN-1
-        - id: 4077-SN-2
-        - id: 4077-UD-1
-        - id: 4077-UD-2
+        - id: 4077-SN-Am-1
+        - id: 4077-SN-Am-2
+        - id: 4077-UD-Am-1
+        - id: 4077-UD-Am-2
 
     - id: 4078
       texto: >
@@ -1087,10 +1087,10 @@ experimentos:
         Camada etérea e reutilizável.
 
       resultados:
-        - id: 4078-SN-1
-        - id: 4078-SN-2
-        - id: 4078-UD-1
-        - id: 4078-UD-2
+        - id: 4078-SN-Cm-1
+        - id: 4078-SN-Cm-2
+        - id: 4078-UD-Cm-1
+        - id: 4078-UD-Cm-2
 
     - id: 4079
       texto: >
@@ -1099,10 +1099,10 @@ experimentos:
         Camada etérea e reutilizável.
 
       resultados:
-        - id: 4079-SN-1
-        - id: 4079-SN-2
-        - id: 4079-UD-1
-        - id: 4079-UD-2
+        - id: 4079-SN-Em-1
+        - id: 4079-SN-Em-2
+        - id: 4079-UD-Em-1
+        - id: 4079-UD-Em-2
 
     - id: 4080
       texto: >
@@ -1111,7 +1111,7 @@ experimentos:
         Camada etérea e reutilizável.
 
       resultados:
-        - id: 4080-SN-1
-        - id: 4080-SN-2
-        - id: 4080-UD-1
-        - id: 4080-UD-2
+        - id: 4080-SN-F#m-1
+        - id: 4080-SN-F#m-2
+        - id: 4080-UD-F#m-1
+        - id: 4080-UD-F#m-2
