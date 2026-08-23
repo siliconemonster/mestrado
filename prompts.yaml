@@ -91,7 +91,66 @@ experimentos:
         resultados: [1015-ETTA-1, 1015-ETTA-2, 1015-ETTA-3, 1015-SN-1, 1015-SN-2, 1015-UD-1, 1015-UD-2]
 
   - nome: "Experimento 2 - Geração a partir de uma base"
-    prompts: []
+    prompts:
+      - id: 2001
+        texto: "Transforme esta faixa em vaporwave"
+        base: "base.wav"
+        resultados: [2001-ETTA-1]
+        
+      - id: 2002
+        texto: "Transforme esta faixa em chillwave"
+        base: "base.wav"
+        resultados: [2002-ETTA-1]
+        
+      - id: 2003
+        texto: "Transforme esta faixa em synthwave"
+        base: "base.wav"
+        resultados: [2003-ETTA-1]
+        
+      - id: 2004
+        texto: "Transforme esta faixa em lofi hip-hop"
+        base: "base.wav"
+        resultados: [2004-ETTA-1]
+        
+      - id: 2005
+        texto: "Adicione vocais a esta faixa"
+        base: "base.wav"
+        resultados: [2005-ETTA-1]
+        
+      - id: 2006
+        texto: "Adicione uma linha melódica a esta faixa"
+        base: "base.wav"
+        resultados: [2006-ETTA-1]
+        
+      - id: 2007
+        texto: "Reinvente esta faixa livremente"
+        base: "base.wav"
+        resultados: [2007-ETTA-1]
+        
+      - id: 2008
+        texto: "Adicione uma nova seção no meio da faixa"
+        base: "base.wav"
+        resultados: [2008-ETTA-1]
+        
+      - id: 2009
+        texto: "Transforme esta faixa em vaporwave"
+        base: "prompt cantado 1.wav"
+        resultados: [2009-ETTA-1, 2009-ETTA-2, 2009-ETTA-3]
+        
+      - id: 2010
+        texto: "Transforme esta faixa em vaporwave"
+        base: "prompt cantado 2.wav"
+        resultados: [2010-ETTA-1, 2010-ETTA-2, 2010-ETTA-3]
+        
+      - id: 2011
+        texto: null
+        base: "base.wav"
+        resultados: [2011-SN-1]
+        
+      - id: 2012
+        texto: null
+        base: "base.wav"
+        resultados: [2012-UD-1]
 
   - nome: "Experimento 3 - Geração baseada em descritores subjetivos"
     prompts:
