@@ -107,6 +107,25 @@ experimentos:
   nome: Experimento 2 - Geração a partir de uma base
 
   nome: Experimento 3 - Geração baseada em descritores subjetivos
+  prompts:
+
+    - id: 3001
+      texto: >
+        uma música similar a synthwave mas que evoque sentimentos tristes.
+
+    - id: 3002
+      texto: >
+        uma música similar a synthwave mas que evoque sentimentos tristes.
+        PREFERENCIAL QUE SEJA MAIS TRISTE DO QUE SYNTHWAVE, ISSO É MUITO
+        IMPORTANTE. priorize tristeza
+
+    - id: 3003
+      texto: >
+        música eletrônica muito triste
+
+    - id: 3004
+      texto: >
+        música minimalista, pouquíssimos instrumentos
 
   nome: Experimento 4 - Geração com parâmetros técnicos explícitos
   prompts:
