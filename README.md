@@ -15,3 +15,5 @@ experimentos:
 ```
 
 Para encontrar o áudio desejado, basta buscar pelo id do resultado do experimento específico, como por exemplo ```1001-ETTA-1```, na pasta [audio](https://github.com/siliconemonster/mestrado/tree/main/audio).
+
+No caso do **Experimento 2 - Geração a partir de uma base**, há a informação de qual base foi utilizada nas gerações, como em ```base: "base.wav"```, que pode ser encontrada na pasta [base](https://github.com/siliconemonster/mestrado/tree/main/base).
