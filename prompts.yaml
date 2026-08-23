@@ -1,13 +1,114 @@
 experimentos:
 
   nome: Experimento 1 - Geração a partir de prompt
+  prompts:
+
+    - id: 1001
+      texto: >
+        gerar linha de baixo sem nenhum outro instrumento
+
+    - id: 1002
+      texto: >
+        gerar uma música vaporwave
+
+    - id: 1003
+      texto: >
+        gerar uma música chillwave
+
+    - id: 1004
+      texto: >
+        gerar uma música synthwave
+
+    - id: 1005
+      texto: >
+        gerar uma música lofi hip-hop
+
+    - id: 1006
+      texto: >
+        Crie uma música onde a atmosfera surge da suspensão do tempo
+        (loops longos, êstase harmônica, desaceleração, degradação de mídia);
+        o ritmo é secundário ou quase simbólico; a harmonia é estática,
+        modal ou ambígua; poucos acordes; o baixo é âncora harmônica,
+        notas longas, pouco movimento; a bateria é mínima, reverberada,
+        nostálgica; os ruídos são centrais à estética; fita, vinil,
+        wow/flutter; a relação com a memória é crítica e distorcida.
+        Essa música paira.
+
+    - id: 1007
+      texto: >
+        Crie uma música onde a atmosfera surge da expansão espacial
+        (camadas de pads, chorus, reverb moderado, movimento harmônico
+        contínuo); o ritmo sustenta a fluidez, groove leve, constante;
+        a harmonia é tonal, progressões simples e emotivas; o baixo tem
+        suporte rítmico suave, linhas repetitivas; a bateria é leve e clara,
+        groove contínuo; os ruídos são opcionais e sutis; apenas coloração;
+        a relação com a memória é afetiva e idealizada. Essa música respira.
+
+    - id: 1008
+      texto: >
+        Crie uma música onde a atmosfera é cenográfica, criada por timbre
+        e estética 80s, não por ambiência difusa; o ritmo é estrutural,
+        pulso firme e previsível; a harmonia é funcional e direcional,
+        influência pop/rock 80s; o baixo é o motor do groove, ostinatos
+        e oitavas; a bateria é seca, forte, máquina evidente; os ruídos
+        são evitados, som limpo e brilhante; a relação com a memória é
+        de nostalgia estilizada e épica. Essa música avança.
+
+    - id: 1009
+      texto: >
+        Crie uma música onde a atmosfera vem da proximidade e imperfeição,
+        sensação de quarto pequeno e escuta íntima; o ritmo é humano,
+        swing, microdeslocamentos e repetição hipnótica; a harmonia é
+        jazzificada, extensões e voicings abertos; o baixo é complemento
+        do kick, presença contida; a bateria é abafada, com swing e
+        imperfeição, os ruídos são constantes, ruído como cola emocional;
+        a relação com a memória é cotidiana e íntima. Essa música acolhe.
+
+    - id: 1010
+      texto: >
+        80 bpm; ruído de fita; chiado de vinil; reverbs amplos; linha de
+        baixo simples de timbre de synth senoide ou triangular + serra
+        filtrada, low pass 200-800HZ. Adicione leve detune e leve drive.
+        Poucos picos de transiente. - bateria contendo kick de ataque suave,
+        snare com reverb, rimshots ocasionais. ritmo simples - pads formando
+        a harmonia tonal simples com synth de duas ondas serra com pequeno
+        detune. o ataque de 1.5 a 3 segundos, reverb de cauda longa -
+        melodia: faça um hook simples, de synth.
+
+    - id: 1011
+      texto: >
+        crie uma música cuja melodia principal é dada pelo oboé, similar
+        ao tema do cisne negro no lago dos cisnes
+
+    - id: 1012
+      texto: >
+        crie apenas uma melodia no oboé sem outros instrumentos
+
+    - id: 1013
+      texto: >
+        gerar uma música que represente a versão orquestral de uma música
+        chillwave
+
+    - id: 1014
+      texto: >
+        Crie uma música clássica onde a atmosfera surge da suspensão do
+        tempo (loops longos, êstase harmônica, desaceleração, degradação
+        de mídia); o ritmo é secundário ou quase simbólico; a harmonia é
+        estática, modal ou ambígua; poucos acordes; o contrabaixo é âncora
+        harmônica, notas longas, pouco movimento; a percussão é mínima,
+        reverberada, nostálgica; os ruídos são centrais à estética; fita,
+        vinil, wow/flutter; a relação com a memória é crítica e distorcida.
+        Essa música paira.
+
+    - id: 1015
+      texto: >
+        Crie uma base de vaporwave sem melodia para eu trabalhar em cima
 
   nome: Experimento 2 - Geração a partir de uma base
 
   nome: Experimento 3 - Geração baseada em descritores subjetivos
 
   nome: Experimento 4 - Geração com parâmetros técnicos explícitos
-
   prompts:
 
     - id: 4001
